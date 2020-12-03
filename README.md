@@ -1,2 +1,2 @@
-# adventofcode2020
-Advent of code 2020
+# Advent Of Code 2020
+My solution of Advent Of Code 2020 in Java
